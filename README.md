@@ -1,2 +1,2 @@
-👋 Hi, I’m Rainer Dehmann. On github Dmonstrator you'll find some of my private stuff..
-📫 YOu reach me at rainer.dehmann[at]dmonstrator.de
+👋 Hi, I’m Rainer Dehmann. On github Dmonstrator you'll find some of my private stuff...
+📫 In terms of questions, comments or whatever you reach me at rainer.dehmann[at]dmonstrator.de
